@@ -33,10 +33,11 @@
 将下载的决策树文件解压到data里面
 
 文件结构如下:
-Monster Hunter World\nativePC\
+
+      Monster Hunter World\nativePC\
    
-   └── em\
-   
+      └── em\   
+       
        └── em013\
        
            └── 00\
@@ -44,3 +45,4 @@ Monster Hunter World\nativePC\
                └── data\
                
                      ├── em013_00.thk        (主战斗AI)
+                     ......
